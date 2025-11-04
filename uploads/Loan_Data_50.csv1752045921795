@@ -1,0 +1,51 @@
+Loan_ID,Customer_Name,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status,Loan_Purpose,Interest_Rate,EMI,Age,Tenure_Years,Employment_Type
+LN001,Jessica Romero,Female,No,1,Graduate,No,9751,5063,198,360,0,Semiurban,Rejected,Business,8.84,48.62,60,30,Salaried
+LN002,Michael Moore,Male,No,0,Not Graduate,Yes,12456,2264,189,240,1,Urban,Rejected,Education,13.03,102.61,43,20,Business
+LN003,Katie Williams,Male,No,3+,Graduate,No,10696,6066,186,360,0,Urban,Approved,Business,7.87,40.66,29,30,Business
+LN004,Arthur Pham,Female,No,1,Not Graduate,No,14397,7053,139,240,0,Urban,Approved,Home,12.56,72.74,22,20,Freelancer
+LN005,Joyce Alvarez,Female,No,1,Not Graduate,Yes,5104,4196,141,360,0,Rural,Approved,Car,13.04,51.07,54,30,Business
+LN006,Adam Evans,Male,No,1,Not Graduate,Yes,3407,2429,215,360,0,Semiurban,Rejected,Home,8.58,51.24,31,30,Salaried
+LN007,Victoria Francis,Female,No,3+,Graduate,Yes,10781,4847,144,180,1,Urban,Approved,Car,6.87,54.96,59,15,Business
+LN008,Jacob Butler,Female,No,1,Graduate,Yes,10424,2116,220,240,0,Semiurban,Rejected,Business,11.64,106.7,50,20,Salaried
+LN009,Ashley Harris,Male,No,1,Not Graduate,No,3095,7169,195,120,0,Semiurban,Approved,Education,11.74,190.78,37,10,Salaried
+LN010,Christopher Cooper,Female,No,0,Graduate,Yes,9369,4604,209,180,0,Urban,Rejected,Home,13.16,152.8,38,15,Business
+LN011,Nicholas Holmes,Other,Yes,3+,Not Graduate,Yes,13634,3140,283,300,0,Rural,Rejected,Home,11.72,110.56,34,25,Business
+LN012,Sylvia Martin,Female,Yes,0,Graduate,No,6297,3779,60,180,0,Rural,Approved,Education,8.77,29.23,22,15,Freelancer
+LN013,Haley Torres,Male,Yes,1,Graduate,Yes,6882,665,132,360,1,Rural,Rejected,Education,8.16,29.92,59,30,Freelancer
+LN014,Theresa Smith,Other,Yes,2,Graduate,Yes,5359,6889,154,300,0,Urban,Approved,Car,12.89,66.17,27,25,Freelancer
+LN015,Ryan Vaughan,Other,No,1,Not Graduate,No,4204,4503,160,180,1,Urban,Rejected,Education,7.14,63.47,36,15,Business
+LN016,Alyssa Thomas,Female,No,3+,Graduate,No,11445,7018,105,180,0,Rural,Rejected,Home,9.63,56.18,60,15,Business
+LN017,Abigail Grant,Other,No,1,Graduate,No,2628,5701,299,180,1,Urban,Approved,Education,7.51,124.75,26,15,Business
+LN018,Erica Green,Other,Yes,1,Not Graduate,No,7718,4754,295,180,0,Rural,Approved,Education,13.41,219.78,36,15,Business
+LN019,Steven Burton,Other,Yes,0,Not Graduate,No,3215,5544,267,120,0,Semiurban,Rejected,Business,10.28,228.73,38,10,Freelancer
+LN020,Kim Taylor,Female,Yes,3+,Not Graduate,Yes,7884,1678,106,300,0,Urban,Approved,Home,10.21,36.08,58,25,Freelancer
+LN021,Jeremiah Chase,Male,No,2,Graduate,Yes,14658,5789,122,120,1,Rural,Rejected,Home,13.35,135.73,36,10,Freelancer
+LN022,Kathleen Santos,Female,Yes,0,Not Graduate,Yes,8541,3378,172,240,0,Urban,Approved,Business,12.54,89.87,26,20,Freelancer
+LN023,Monique Vaughan,Male,No,1,Graduate,No,9130,1394,107,120,0,Urban,Approved,Education,11.54,102.9,54,10,Salaried
+LN024,Ralph Mcconnell,Other,Yes,0,Not Graduate,Yes,9595,1036,73,180,1,Urban,Rejected,Car,6.95,28.19,44,15,Business
+LN025,Lee Watson,Other,Yes,0,Not Graduate,No,11526,2080,99,180,0,Semiurban,Approved,Business,8.4,46.2,47,15,Business
+LN026,Pamela Barajas,Other,No,1,Graduate,No,11138,1098,136,300,1,Semiurban,Approved,Home,13.08,59.3,33,25,Salaried
+LN027,Joel Hunter,Male,No,1,Graduate,Yes,4135,6615,98,360,1,Rural,Approved,Home,8.14,22.16,29,30,Freelancer
+LN028,Katie Meyer,Female,No,3+,Not Graduate,No,3904,5967,172,360,0,Semiurban,Rejected,Business,11.65,55.66,50,30,Salaried
+LN029,Reginald Walters,Other,Yes,1,Graduate,No,8128,845,271,300,0,Semiurban,Approved,Home,10.51,94.94,38,25,Business
+LN030,Amy Jackson,Male,No,0,Graduate,No,9352,7417,174,360,1,Urban,Approved,Business,8.01,38.72,49,30,Salaried
+LN031,Joanna Price,Other,Yes,0,Not Graduate,Yes,12190,4236,208,120,1,Rural,Approved,Business,8.05,139.53,30,10,Freelancer
+LN032,Karen Gill,Male,Yes,0,Graduate,No,14513,6278,122,240,1,Semiurban,Approved,Car,10.85,55.15,53,20,Business
+LN033,Jason Morris,Other,No,2,Not Graduate,No,10009,27,187,300,1,Urban,Approved,Car,9.88,61.59,36,25,Salaried
+LN034,Jose James,Other,No,1,Not Graduate,Yes,13755,2557,77,360,1,Semiurban,Rejected,Education,9.33,19.96,25,30,Business
+LN035,Robert Ramos,Other,No,3+,Graduate,Yes,5651,3573,285,180,0,Urban,Approved,Business,11.17,176.86,43,15,Salaried
+LN036,Alice Johnson,Other,No,0,Graduate,No,14544,7184,292,360,1,Rural,Approved,Car,7.45,60.43,26,30,Business
+LN037,Michele Hubbard,Female,No,3+,Graduate,Yes,3531,2827,52,360,0,Semiurban,Approved,Education,10.07,14.55,30,30,Freelancer
+LN038,Michael Roberts,Male,Yes,1,Graduate,No,5463,7535,292,240,1,Urban,Rejected,Business,12.24,148.92,33,20,Freelancer
+LN039,Timothy Brooks,Other,No,2,Not Graduate,No,7851,5335,163,300,1,Urban,Rejected,Business,11.68,63.46,60,25,Freelancer
+LN040,Mark Baxter,Male,No,1,Not Graduate,No,4740,4038,287,300,0,Urban,Rejected,Business,13.16,125.9,54,25,Business
+LN041,Destiny Ramsey,Female,No,3+,Not Graduate,Yes,7773,6694,135,120,0,Urban,Approved,Business,12.09,136.01,26,10,Freelancer
+LN042,Shannon Lewis,Male,Yes,1,Not Graduate,Yes,9270,3469,53,360,1,Rural,Approved,Car,13.29,19.57,36,30,Business
+LN043,Stacey Green,Other,No,1,Graduate,Yes,4244,990,97,120,1,Semiurban,Rejected,Car,10.29,83.18,47,10,Business
+LN044,Theresa Williams,Female,Yes,0,Not Graduate,No,11951,5057,107,360,0,Semiurban,Rejected,Car,9.7,28.83,35,30,Salaried
+LN045,Michael Anthony,Other,Yes,2,Graduate,No,13518,1118,183,120,0,Semiurban,Rejected,Car,7.02,107.06,57,10,Freelancer
+LN046,Denise Benton,Male,Yes,0,Graduate,Yes,2254,5126,71,180,0,Urban,Rejected,Business,13.45,53.05,37,15,Business
+LN047,Jean Bentley,Male,No,1,Not Graduate,Yes,8331,2324,66,300,0,Urban,Rejected,Business,7.0,15.4,27,25,Salaried
+LN048,Julie Bond,Female,Yes,0,Graduate,No,7758,6806,247,240,0,Semiurban,Rejected,Business,11.63,119.69,21,20,Business
+LN049,Holly Todd,Other,No,2,Graduate,No,14413,3194,94,120,1,Urban,Rejected,Car,6.79,53.19,32,10,Business
+LN050,Rachel Johnson,Male,No,2,Not Graduate,Yes,6458,3842,59,360,1,Rural,Rejected,Business,12.7,20.81,38,30,Salaried
